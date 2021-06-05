@@ -7,30 +7,30 @@
 
 #### Input variables (based on physicochemical tests):
 
->1 - fixed acidity
+>1 - Fixed acidity
 >
->2 - volatile acidity>
+>2 - Volatile acidity>
 >
->3 - citric acid
+>3 - Citric acid
 >
->4 - residual sugar
+>4 - Residual sugar
 >
->5 - chlorides
+>5 - Chlorides
 >
->6 - free sulfur dioxide
+>6 - Free sulfur dioxide
 >
->7 - total sulfur dioxide
+>7 - Total sulfur dioxide
 >
->8 - density
+>8 - Density
 >
->9 - pH
+>9 - PH
 >
->10 - sulphates
+>10 - Sulphates
 >
->11 - alcohol
+>11 - Alcohol
 >
 #### Output variable (based on sensory data):
->12 - quality (score between 0 and 10)
+>12 - Quality Of The Wine (score between 0 and 10)
 
 ## Technology
 >Pandas, Numpy, Matplotlib, seaborn, Scikitlearn, imblearn 
