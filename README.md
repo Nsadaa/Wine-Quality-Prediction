@@ -1,7 +1,7 @@
 # Wine-Quality-Prediction
 
 ## Introduction
->Wine Quality Prediction Model (ML) ExtraTreesClassifier 88% Accuracy. Check Dataset For Dataset.rar
+>Wine Quality Prediction Model (ML) ExtraTreesClassifier 88% Accuracy. Check Dataset For Dataset.rar , Dataset From www.Kaggle.com
 
 ## Summary About Dataset
 
